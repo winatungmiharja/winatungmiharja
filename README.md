@@ -1,4 +1,4 @@
-![header-win](https://user-images.githubusercontent.com/64743796/109766831-10fe9800-7c3a-11eb-8b85-67f99d8a3d7b.gif)
+![wina-gif](https://user-images.githubusercontent.com/64743796/109800692-dd833400-7c60-11eb-8621-72c960073e73.gif)
 [![LinkedIn badge](https://img.shields.io/badge/Wina_Tungmiharja-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/wina-tungmiharja-b87912203/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-FAC151.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/winatungmiharja/)
 

@@ -6,10 +6,7 @@
 ### Hi there 👋
 I am currently enrolled in Sepuluh Nopember Institute of Technology. I love programming, especially making beautiful things while programming. Currently, I'm still learning and try to make project with JavaScript, ReactJS and NodeJS. Long way to go!
 
-- ⚡ Fun fact: Love to eat!😄
-
 ## 📈 My GitHub Stats
-
 <a href="https://github.com/natterstefan/winatungmiharja">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=winatungmiharja&hide=issues&show_icons=true&title_color=F9C150&icon_color=F9C150" />
 </a>

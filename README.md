@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **winatungmiharja/winatungmiharja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![wina](https://user-images.githubusercontent.com/64743796/109763209-173e4580-7c35-11eb-9730-5b767632ce7c.gif)
+### Hi there 👋

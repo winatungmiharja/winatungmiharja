@@ -2,6 +2,7 @@
 
 [![LinkedIn badge](https://img.shields.io/badge/Wina_Tungmiharja-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/wina-tungmiharja-b87912203/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-FAC151.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/winatungmiharja/)
+[![wakatime](https://wakatime.com/badge/user/aecf4b4e-380a-4119-8fc9-55a07b319e35.svg)](https://wakatime.com/@aecf4b4e-380a-4119-8fc9-55a07b319e35)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am currently enrolled in Sepuluh Nopember Institute of Technology. I love programming, especially making beautiful things while programming. Currently, I'm still learning and try to make project with JavaScript, ReactJS and NodeJS. Long way to go!

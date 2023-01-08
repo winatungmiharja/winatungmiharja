@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/aecf4b4e-380a-4119-8fc9-55a07b319e35.svg)](https://wakatime.com/@aecf4b4e-380a-4119-8fc9-55a07b319e35)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am currently enrolled in Sepuluh Nopember Institute of Technology. I love programming, especially making beautiful things while programming. Currently, I'm still learning and try to make project with JavaScript, ReactJS and NodeJS. Long way to go!
+I am currently enrolled in Sepuluh Nopember Institute of Technology. I am an experienced Front end Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Typescript, ReactJS, and NextJS. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/winatungmiharja/winatungmiharja">

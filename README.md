@@ -6,11 +6,3 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am currently enrolled in Sepuluh Nopember Institute of Technology. I am an experienced Front end Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Typescript, ReactJS, and NextJS. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
-
-## 📈 My GitHub Stats
-<a href="https://github.com/winatungmiharja/winatungmiharja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=winatungmiharja&hide=issues&show_icons=true&title_color=F9C150&icon_color=F9C150" />
-</a>
-<a href="https://github.com/winatungmiharja/winatungmiharja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winatungmiharja&layout=compact&title_color=F9C150" alt="Most Used Language" />
-</a>
